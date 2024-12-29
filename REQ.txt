@@ -1,0 +1,2 @@
+from transformers import StableDiffusionPipeline
+import torch
